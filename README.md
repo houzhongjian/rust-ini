@@ -75,6 +75,9 @@ fn main() {
 
 * More details could be found in `examples`.
 
+## Who Use
+[Temp Mail](https://tempmail100.com)
+
 ## License
 
 [The MIT License (MIT)](https://opensource.org/licenses/MIT)
