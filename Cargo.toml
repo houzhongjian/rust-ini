@@ -1,5 +1,5 @@
 [package]
-name = "rust-ini"
+name = "rust-public-ini"
 version = "0.0.1"
 description = "An Ini configuration file parsing library in Rust"
 repository = "https://tempmail100.com"
